@@ -1,4 +1,10 @@
 # LIRI-node-app
+
+Please click here to see the detail
+
+https://youtu.be/VQ8qZKWKajY
+
+
 # LIRI Bot
 
 ### Overview
